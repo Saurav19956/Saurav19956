@@ -1,4 +1,4 @@
-👋 Hi, I’m Saurav Gupta, a Node.js developer with over one and a half years of hands-on experience. I work with AWS and MongoDB, exploring new ways to leverage cloud solutions and efficient data handling. Currently, I’m diving deeper into AWS and MongoDB to pursue Associate Developer certifications.
+👋 Hi, I’m Saurav Gupta, a Node.js developer with 2 years of hands-on experience. I work with AWS and MongoDB, exploring new ways to leverage cloud solutions and efficient data handling. Currently, I’m diving deeper into AWS and MongoDB to pursue Associate Developer certifications.
 
 👀 I’m interested in backend development, cloud infrastructure, and REST API design. I enjoy building scalable applications and am always up for tackling new challenges in tech.
 
